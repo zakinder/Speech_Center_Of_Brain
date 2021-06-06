@@ -7,26 +7,30 @@
 3. Silent Speech Decoding Using Spectrogram Features
 4. No Delta = Constant
 5. Two Frames = Time 
-6. Constant: Right or Wrong Frame
-7. Shift of constants = Multi-Deminsional (Hologram) |  One of the sense like reference as senses of human
-8. Auditory Cortex
-9. Visual Cortex
-10. Interference Waveform
-11. Alien Number
-13. BCH Encoder
-14. BCH Decoder
-15. Brain–Computer Interface (BCI)
-16. Spectrogram Monitoring System (SMS)
-17. Online Calibration through BCI feedback loop : IoE (Music/Conversation stimulus) Signals to Map/Remap Parameters.  
-18. Offline Calibration through BCI feedback loop : IoE (Music/Conversation) Signals toCollect Parameters.
-19. Reactive stimulus
-20. UVM (COMPUTER-SENSORS) vs DUT (HUMAN-BRAIN)
-21. Verification Plan
-22. Test Plan
-23. Applications : IoE through Radio Signal to Demotivate Soilders
-24. Industrial Control System (ICS) Devices
-25. Host Identity Protocol (HIP)
-26. MACsec Layer 2 protocol : Encrypted Paylaod
+6. Two Thoughts = Time
+7. MPEG (I,B,P Frames) = Thought (I,B,P Frames) But as single thought which sum (within 1 Hz) of frames and human doesn't recognize it.
+8. Between I and P Frame where farri speaks for exposing truth
+9. Constant: Right or Wrong Frame
+10. Shift of constants = Multi-Deminsional (Hologram) |  One of the sense like reference as senses of human
+11. Auditory Cortex
+12. Visual Cortex
+13. Interference Waveform
+14. Alien Number
+15. BCH Encoder
+16. BCH Decoder
+17. Brain–Computer Interface (BCI)
+18. Spectrogram Monitoring System (SMS)
+19. Online Calibration through BCI feedback loop : IoE (Music/Conversation stimulus) Signals to Map/Remap Parameters.  
+20. Offline Calibration through BCI feedback loop : IoE (Music/Conversation) Signals toCollect Parameters.
+21. Reactive stimulus
+22. UVM (COMPUTER-SENSORS) vs DUT (HUMAN-BRAIN)
+23. Verification Plan
+24. Test Plan
+25. Applications : IoE through Radio Signal to Demotivate Soilders
+26. Industrial Control System (ICS) Devices
+27. Host Identity Protocol (HIP)
+28. MACsec Layer 2 protocol : Encrypted Paylaod
+29. Brainwaves
 ____________
 
 1. Convert Thoughts Into Actions
