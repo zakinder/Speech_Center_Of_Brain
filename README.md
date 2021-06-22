@@ -34,6 +34,12 @@ POINTING 21st TRUTH. Nothing Less nor Nothing More. Just Precisely
 28. MACsec Layer 2 protocol : Encrypted Paylaod
 29. Brainwaves
 30. Conscious and unconscious computer mouse clicks(Index and Middle Finger(Menu Of Choices)) and wwww
+31. MD
+32. A_P_T_7
+33. BM
+34. 20877
+35. N.
+36. FRED
 ____________
 
 1. Convert Thoughts Into Actions
