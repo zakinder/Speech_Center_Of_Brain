@@ -2,6 +2,8 @@
 
 ## Topics
 
+POINTING 21st TRUTH. Nothing Less nor Nothing More. Just Precisely
+
 1. Convert Thoughts Into Actions
 2. Blind spot at tod (Time of day)
 3. Silent Speech Decoding Using Spectrogram Features
@@ -31,6 +33,7 @@
 27. Host Identity Protocol (HIP)
 28. MACsec Layer 2 protocol : Encrypted Paylaod
 29. Brainwaves
+30. Conscious and unconscious computer mouse clicks(Index and Middle Finger(Menu Of Choices)) and wwww
 ____________
 
 1. Convert Thoughts Into Actions
